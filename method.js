@@ -6,3 +6,6 @@ arrNumber.map((e)=>{
     }
 })
 console.log(newArr);
+//callback hell
+//callback function
+//async/await
